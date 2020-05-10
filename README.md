@@ -1,7 +1,7 @@
-# Create React Express App, using google api to search for books
+## Create React Express App, using google api to search for books
 Home page, search page and saved are the main top links
 
-# https://googlebooksearch-meg.herokuapp.com/
+### https://googlebooksearch-meg.herokuapp.com/
 
 This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
 
